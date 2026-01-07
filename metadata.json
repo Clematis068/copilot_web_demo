@@ -1,0 +1,7 @@
+{
+  "name": "LoL Copilot - Strategy Assistant",
+  "description": "A real-time strategy assistant for League of Legends that provides laning tips, jungle paths, and matchup analysis using Gemini AI and search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
